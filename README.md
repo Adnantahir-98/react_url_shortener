@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-<span><h3>Used this Site for URL Shortener</h3>:  <h4> https://shrtco.de/ </h4></span>
+<h3>Used this Site for URL Shortener give below.</h3>
+<h4> https://shrtco.de/ </h4>
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
