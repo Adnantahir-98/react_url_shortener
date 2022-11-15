@@ -4,6 +4,13 @@
 <h4> https://shrtco.de/  Go to the developer API & Shotener Url</h4>
 <br />
 
+![](Screenshot1.png)
+<br />
+![](Screenshot2.png)
+<br />
+![](Screenshot3.png)
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
